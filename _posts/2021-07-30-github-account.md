@@ -54,14 +54,3 @@ For more information on setting up configuration files on your computer for mult
 - [Windows Machine Multiple Git ID's](https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e)
 - [Multiple Emails per Git Repo](https://orrsella.com/2013/08/10/git-using-different-user-emails-for-different-repositories/)
 
-## General information and resources for using GitHub 
-- [Get started with GitHub](https://docs.github.com/en/get-started)
-- [GitHub Guides](https://guides.github.com/)
-- [Git and GitHub learning resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
-- [Happy GIT and GitHub for the useR](https://happygitwithr.com/)
-- [Basic GIT workflows](https://noaa-fisheries-integrated-toolbox.github.io/resources/onboarding/version-control2/#basic-git-workflows)
-- [Practical R Workflow for Scientists](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/index.html)
-  - Specifically [week 1](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week1.html), [week 2](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week2.html), and [week 3](https://rverse-tutorials.github.io/RWorkflow-NWFSC-2021/week3.html)
-- [Collaborate with R and GitHub](https://noaa-iea.github.io/r3-train/collaborate.html)
-- [How to Use Git/GitHub with R](https://rfortherestofus.com/2021/02/how-to-use-git-github-with-r/)
-- [Git and GitHub with R](https://r-pkgs.org/git.html)
