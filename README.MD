@@ -33,7 +33,8 @@ tags:
 7. Once a post is created in the post folder and the `navigation.yml` file is updated, [create a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) so we can merge the changes and update the FIT site.
  
 ### How to embed a video in a `.md` page
-Using a link from YouTube or Vimeo:
+
+#### Using a link from YouTube or Vimeo:
 1. Click `share`
 2. Click `embed link`
 3. Copy and Paste the embed link into the `.md` file where you want the video to appear
@@ -44,3 +45,9 @@ Example code from YouTube embed link:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/A7qDN2oYSxc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 ```
+#### Embedding an `.mp4` file
+
+To embed an `.mp4` file directly onto a github page, you'll need to use [Git Large File Storage](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage) in order to add the video to a repository. The GitHub docs linked below will walk you through this. 
+
+1. [Install Git Large File Storage](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)
+2. [Configure Git LFS](https://docs.github.com/en/repositories/working-with-files/managing-large-files/configuring-git-large-file-storage)
